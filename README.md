@@ -31,9 +31,14 @@ IF( AND(movies[budget] < __upper , movies[budget] > 0) , "True" , "False")
   <img width="868" height="520" alt="image" src="https://github.com/user-attachments/assets/c0a01c4c-5221-4611-aeb5-c5e14c2ca100" />
   
 - Identified significant relationships
+
+  <img width="774" height="535" alt="image" src="https://github.com/user-attachments/assets/af207031-1d7a-4745-aa13-b5c5ec1f84e2" />
+
    <img width="500" height="435" alt="image" src="https://github.com/user-attachments/assets/e4b42ee7-6396-492b-86fb-b6f2caba322b" />
 
 - Visualized through correlation matrix
+  
+<img width="1026" height="560" alt="image" src="https://github.com/user-attachments/assets/8df018da-71f8-4d7a-a924-5528e9623168" />
 
 <img width="509" height="419" alt="image" src="https://github.com/user-attachments/assets/bbe10c07-80e1-46c8-887b-2d51a1dfbf95" />
 
