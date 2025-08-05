@@ -19,10 +19,8 @@ This project analyzes a CSV dataset containing movie information, including rati
 - Identified outliers using the IQR method (1.5× interquartile range)
   <img width="1353" height="659" alt="image" src="https://github.com/user-attachments/assets/d206c17d-e6c8-4455-894c-d7001ba2edb8" />
 
-
-
 IF( AND(movies[budget] < __upper , movies[budget] > 0) , "True" , "False") 
-- Visualized data distributions before/after cleaning  
+  
 
 *(Space reserved for outlier visualization)*  
 
@@ -62,5 +60,10 @@ The analysis revealed:
 
 ## **Conclusion**  
 This project highlights the importance of thorough data cleaning before analysis. The applied statistical methods provided reliable, actionable insights about the film industry. The visualizations created offer immediate understanding of cinematic trends.  
-  
+
+  👨‍🎓 About Me
+I'm a student in Financial Engineering, currently learning Python and SQL.
+This is my first public project using Excel and GitHub!
+
+📌 Created by AHMED CHIHAB https://github.com/ahmedchihab
 **Note**: All code and visualizations are reproducible with the provided dataset and scripts.
